@@ -1,10 +1,6 @@
-<div align="center">
-
 # 🛒 Walmart Sales Analysis — SQL
 
 ![Walmart Logo](Walmart_LOGO_only.jpg)
-
-<br>
 
 ## 📌 Project Overview
 
