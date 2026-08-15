@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="walmart_logo.png" alt="Walmart Logo" width="180"/>
+<img src="https://github.com/Ashish-Chaudhari3/Walmart-Sales-Analysis-SQL/blob/main/Walmart_LOGO_only.jpg" alt="Walmart Logo" width="400"/>
 
 <br>
 
